@@ -1,0 +1,11 @@
+# ignore Java project compile & generated files.
+
+# Java class files
+*.class
+
+# generated files
+bin
+gen
+out
+
+#Local configuration file or project path
