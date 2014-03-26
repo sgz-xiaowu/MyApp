@@ -4,8 +4,8 @@
 *.class
 
 # generated files
-bin
-gen
-out
+bin/
+gen/
+out/
 
 #Local configuration file or project path
